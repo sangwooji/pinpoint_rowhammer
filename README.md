@@ -1,7 +1,7 @@
 
 # Proof-of-concept Pinpoint Rowhammer
 
-This software is a proof-of-concept implementation of our paper "[Pinpoint Rowhammer: Suppressing Unwanted Bit Flips on Rowhammer Attacks](https://dl.acm.org/citation.cfm?id=3329811)", published in ACM Asia Conference on Computer and Communications Security (AsiaCCS) 2019. This code is implemented upon Google's "[rowhammer-test implementation](https://github.com/google/rowhammer-teist)".
+This software is a proof-of-concept implementation of our paper "[Pinpoint Rowhammer: Suppressing Unwanted Bit Flips on Rowhammer Attacks](https://dl.acm.org/citation.cfm?id=3329811)", published in ACM Asia Conference on Computer and Communications Security (AsiaCCS) 2019. This code is implemented upon Google's "[rowhammer-test implementation](https://github.com/google/rowhammer-test)".
 
 To run this software:
 
