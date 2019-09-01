@@ -15,9 +15,9 @@
 // Code snippet for calculating alternating pattern and Pinpoint Rowhammer
 //
 // This code is compatible with DRAM modules which have following bank bits:
-// 13 xor 16
-// 14 xor 17
-// 15 xor 18
+// 14th xor 17th
+// 15th xor 18th
+// 16th xor 19th
 //
 // For other modules, refer Xiao et al., "One Bit Flips, One Cloud Flops: Cross-VM Row Hammer Attacks and Privilege Escalation", USENIX Security 2016
 //
